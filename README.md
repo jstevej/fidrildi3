@@ -14,4 +14,5 @@ The column stagger is more exaggerated than the Corne, and the halves are tilted
 
 ![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-1.png)
 ![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-2.png)
+![Picture of Underside of Fiðrildi 3 Keyboard](images/fidrildi3-comet-3.png)
 
