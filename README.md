@@ -16,3 +16,15 @@ The column stagger is more exaggerated than the Corne, and the halves are tilted
 ![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-2.png)
 ![Picture of Underside of Fiðrildi 3 Keyboard](images/fidrildi3-comet-3.png)
 
+## Issues with Version 3.0
+
+  - "EXT5/10" silkscreen on J2 and J3 incorrect; should be "EXT5/14"
+  - LED bottom silkscreen labels reversed
+  - J1 pins can't be assigned for I2C0 or I2C1
+
+## Improvements for Next Version
+
+  - Fix issues described above.
+  - Would be nice if LEDs could be set even further in from edge. It should make the edge light more uniform. Also, they shine through the side of the bottom PCB.
+  - Add encoder footprints to bottom PCB?
+  - Add GC9A01 cutout to top plate?
