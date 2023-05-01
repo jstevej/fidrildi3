@@ -12,5 +12,6 @@ There are 4-pin and 8-pin JST PH (1 mm) on the top of the PCB for connecting ext
 
 The column stagger is just more exaggerated than the Corne, and the halves are tilted 8 degrees more than the Reviung.
 
-![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-1.jpg)
-![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-2.jpg)
+![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-1.png)
+![Picture of Fiðrildi 3 Keyboard](images/fidrildi3-comet-2.png)
+
